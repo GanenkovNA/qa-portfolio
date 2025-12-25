@@ -28,7 +28,6 @@
 - Selenium WebDriver
 - RestAssured
 - Maven
-- Docker
 - Git / GitHub
 
 ---
@@ -39,4 +38,4 @@
 - [Яндекс.Самокат](./yandex-scooter-api.md) — API-автоматизация
 - [Stellar Burgers](./stellar-burgers-unit.md) — unit-тестирование (диплом)
 - [Stellar Burgers](stellar-burgers-api) — API-автоматизация (диплом)
-- Stellar Burgers — UI-автоматизация (диплом)
+- [Stellar Burgers](./stellar-burgers-ui.md) — UI-автоматизация (диплом)
