@@ -54,7 +54,7 @@
 qa-portfolio/  
 ├── manual/ # Проекты по ручному тестированию (web, mobile, API)  
 ├── automation/ # Проекты по автоматизации (unit, API, UI)  
-├── tools/ # Дипломные проекты  
+├── tools/ # Инструменты для тестирования  
 └── README.md
 ```
 
