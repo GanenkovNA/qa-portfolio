@@ -50,7 +50,7 @@ API-тесты используются для:
 API-уровень позволяет выявлять ошибки
 раньше и дешевле, чем UI-автотесты.
 
-[Подробности: stellar-burgers-api.md](./stellar-burgers-api.md)
+Подробности: [stellar-burgers-api.md](./stellar-burgers-api.md)
 
 ---
 
