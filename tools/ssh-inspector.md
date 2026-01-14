@@ -32,4 +32,4 @@ SSH Inspector — библиотека для выполнения команд 
 - Отделение исполнения команд от логики анализа.
 
 ### Репозиторий
-https://github.com/GanenkovNA/qa-portfolio/tree/dev
+[https://github.com/GanenkovNA/qa-portfolio/tree/dev](https://github.com/GanenkovNA/ssh-inspector/tree/dev)
